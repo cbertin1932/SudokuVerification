@@ -1,0 +1,6 @@
+c:\users\chaz\documents\visual studio 2015\Projects\SudokuVerify\SudokuVerify\bin\Debug\SudokuVerify.exe.config
+c:\users\chaz\documents\visual studio 2015\Projects\SudokuVerify\SudokuVerify\obj\Debug\SudokuVerify.exe
+c:\users\chaz\documents\visual studio 2015\Projects\SudokuVerify\SudokuVerify\obj\Debug\SudokuVerify.pdb
+c:\users\chaz\documents\visual studio 2015\Projects\SudokuVerify\SudokuVerify\obj\Debug\SudokuVerify.csprojResolveAssemblyReference.cache
+c:\users\chaz\documents\visual studio 2015\Projects\SudokuVerify\SudokuVerify\bin\Debug\SudokuVerify.exe
+c:\users\chaz\documents\visual studio 2015\Projects\SudokuVerify\SudokuVerify\bin\Debug\SudokuVerify.pdb
